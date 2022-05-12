@@ -64,7 +64,7 @@ export default function Navbar(props) {
 						onClick={props.toogleMode}
 					/>
 					<label className="custom-control-label" htmlFor="customSwitches">
-						Dark Mode Enabled
+						Dark Mode
 					</label>
 				</div>
 			</div>
